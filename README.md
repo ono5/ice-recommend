@@ -16,3 +16,16 @@ pip install -r requirements.txt
 ```
 source env/bin/activate
 ```
+
+### Heroku 準備
+
+```
+heroku login
+
+heroku create icecream-recommend
+
+heroku stack
+
+# 20に設定(python 3.7を動かしたい)
+heroku stack:set heroku-20
+```
