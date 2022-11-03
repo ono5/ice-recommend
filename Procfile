@@ -1,2 +1,2 @@
 <Procfile>
-web: gunicorn --chdir src view:app
+web: gunicorn --chdir src main:app
