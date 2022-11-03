@@ -1,5 +1,7 @@
 # ice-recommend
 
+https://icecream-recommend.herokuapp.com/
+
 ## Setup
 ### Install
 ```
