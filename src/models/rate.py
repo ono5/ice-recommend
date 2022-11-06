@@ -6,9 +6,9 @@ from surprise import SVD, Dataset, NormalPredictor, Reader
 from surprise.model_selection import cross_validate
 
 import settings
-from src.models.db import BaseDatabase, database
-from src.models.icecream import IceCream
-from src.models.user import User
+from models.db import BaseDatabase, database
+from models.icecream import IceCream
+from models.user import User
 
 logger = logging.getLogger(__name__)
 

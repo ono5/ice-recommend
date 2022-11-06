@@ -96,3 +96,9 @@ INFO:werkzeug: * Detected change in '/Users/hono/Desktop/ice-recommend/src/model
 INFO:werkzeug: * Restarting with stat
 WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 242-964-368
+INFO:werkzeug: * Detected change in '/Users/hono/Desktop/ice-recommend/src/settings.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-964-368
+INFO:werkzeug: * Detected change in '/Users/hono/Desktop/ice-recommend/src/main.py', reloading
+INFO:werkzeug: * Restarting with stat

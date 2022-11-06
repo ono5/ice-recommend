@@ -1,7 +1,7 @@
 from sqlalchemy import Column, String, UniqueConstraint
 from sqlalchemy.orm.session import Session
 
-from src.models.db import BaseDatabase, database
+from models.db import BaseDatabase, database
 
 
 class User(BaseDatabase):
