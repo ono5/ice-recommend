@@ -1,6 +1,4 @@
-import datetime
-
-from sqlalchemy import (Column, DateTime, Integer, create_engine)
+from sqlalchemy import (Column, Integer, create_engine)
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
 
@@ -24,7 +22,4 @@ database = Database()
 
 class BaseDatabase(Base):
     __abstract__ = True
-    id = Column(Integer, primary_key=True, nullable=False)
-    created_at = Column(DateTime, default=datetime.datetime.utcnow)
-    updated_at = Column(DateTime, default=datetime.datetime.utcnow,
-                        onupdate=datetime.datetime.utcnow)
+    id = Column(Integer, primary_key=True, nullable=False, autoincrement=True)

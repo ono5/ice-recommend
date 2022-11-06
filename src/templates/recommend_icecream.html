@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+{% block title %} Recommend IceCream {% endblock %}
+{% block style %}
+.form-yes-or-no {
+    text-align: center;
+}
+.form-yes-or-no ul {
+    list-style-type: none;
+}
+.form-yes-or-no li {
+    display: inline;
+}
+{% endblock %}
+
+{% block content %}
+    <div class="display">
+        Hi, {{ user_name }}
+        こちらがおすすめのアイスクリームです。
+
+        {% for icecream in icecreams %}
+        <p>
+			<img src="/static/images/{{icecream}}.png" />
+        </p>
+        {% endfor %}
+
+        <div>
+            {{ user_name }}さん、おすすめのアイスクリームを教えていただけますか?
+        </div>
+
+        <form action="{{ url_for('evaluate_yes_or_no') }} " method="post">
+            <div class="form-yes-or-no">
+                {{ form.value }}
+            </div>
+            {{ form.user_name }}
+            <div>
+                <input type="submit" value="Submit">
+            </div>
+        </form>
+
+
+    </div>
+{% endblock %}

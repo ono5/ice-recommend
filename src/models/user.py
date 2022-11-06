@@ -1,3 +1,5 @@
+import time
+
 from sqlalchemy import Column, String, UniqueConstraint
 from sqlalchemy.orm.session import Session
 
@@ -18,7 +20,8 @@ class User(BaseDatabase):
             # return exsiting data
             return row
 
-        user = User(name=name)
+        id = int(time.time())
+        user = User(id=id, name=name)
         session.add(user)
         session.commit()
         session.close()

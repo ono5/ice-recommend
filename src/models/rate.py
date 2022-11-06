@@ -39,7 +39,7 @@ class Rate(BaseDatabase):
         session.close()
 
     @staticmethod
-    def recommend_icrecream(user: User) -> list:
+    def recommend_icecream(user: User) -> list:
         if not settings.RECOMMEND_ENGINE_ENABLE:
             session = database.connect_db()
             recommend = [r.name for r in session.query(

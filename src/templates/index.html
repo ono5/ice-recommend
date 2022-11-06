@@ -1,17 +1,12 @@
-<!DOCTYPE html>
-<html lang=”ja”>
-
-<head>
-	<meta charset=”UTF-8″>
-</head>
-
-<body>
-	<title>アイスクリームレコメンド</title>
-
-	<h2>アイスクリーム</h2>
-	<div>
-		<img src="./images/0_bj.png">
+{% extends 'base.html' %}
+{% block title %} Home {% endblock %}
+{% block content %}
+	<div class="display">
+		ユーザー名を入力してください!
+		<br>
+		<form action="/" method="post">
+			<input type="text" name="user_name" size="30" />
+			<input type="submit"  vallue="Submit" />
+		</form>
 	</div>
-</body>
-
-</html>
+{% endblock %}
