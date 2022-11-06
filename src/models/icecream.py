@@ -1,4 +1,5 @@
-from typing import Union
+import random
+from typing import Union, List
 
 from sqlalchemy import Column, String, UniqueConstraint
 from sqlalchemy.orm.session import Session
@@ -39,3 +40,25 @@ class IceCream(BaseDatabase):
         row = session.query(IceCream).filter(IceCream.name == name).first()
         session.close()
         return row
+
+    @staticmethod
+    def get_icecream_random() -> List[str]:
+        session = database.connect_db()
+        icecreams = session.query(IceCream).all()
+        icecream_list = []
+        for ice in icecreams:
+            icecream_list.append(ice.name)
+
+        select_icecream_list = []
+        # 10個のランダムなアイスを返す
+        random_list = [random.randint(0, len(icecream_list)) for i in range(10)]
+        for r in random_list:
+            select_icecream_list.append(icecream_list[r])
+
+        session.close()
+
+        return select_icecream_list
+
+
+
+

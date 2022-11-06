@@ -29,6 +29,7 @@ def index() -> str:
         form.user_name.data = user_name
         return render_template("evaluate_icecream.html", user_name=user_name, form=form)
 
+    icecreams = IceCream.get_icecream_random()
     return render_template("index.html")
 
 
