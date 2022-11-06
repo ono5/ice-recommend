@@ -1,4 +1,10 @@
+import logging
+
+import settings
+
 from flask import Flask, render_template
+
+logging.basicConfig(filename=settings.LOG_FILE, level=logging.INFO)
 
 app = Flask(__name__, static_folder='./static/images')
 
