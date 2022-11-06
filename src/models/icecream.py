@@ -50,8 +50,8 @@ class IceCream(BaseDatabase):
             icecream_list.append(ice.name)
 
         select_icecream_list = []
-        # 10個のランダムなアイスを返す
-        random_list = [random.randint(0, len(icecream_list)) for i in range(10)]
+        # 5個のランダムなアイスを返す
+        random_list = [random.randint(0, len(icecream_list)-1) for i in range(5)]
         for r in random_list:
             select_icecream_list.append(icecream_list[r])
 

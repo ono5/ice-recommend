@@ -461,3 +461,1647 @@ INFO:werkzeug: * Detected change in '/Users/hono/Desktop/ice-recommend/src/main.
 INFO:werkzeug: * Restarting with stat
 WARNING:werkzeug: * Debugger is active!
 INFO:werkzeug: * Debugger PIN: 242-964-368
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:04:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:04:53] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:04:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:04:55] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:05:13] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:05:13] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:05:13] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:05:13] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:05:13] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:05:14] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:05:14] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:05:14] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:05:14] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:05:14] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:05:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:05:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:00] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:01] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:01] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:01] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:01] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:01] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:02] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:05] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:05] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:05] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:05] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:05] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/hono/Desktop/ice-recommend/src/models/icecream.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-964-368
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:06:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:07:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:07:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:08:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:08:50] "[33mGET /... HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in '/Users/hono/Desktop/ice-recommend/src/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-964-368
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:11:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:11:17] "[33mGET /static/image/48_bj.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:11:17] "[33mGET /static/image/22_bj.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:11:17] "[33mGET /static/image/35_bj.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:11:17] "[33mGET /static/image/23_bj.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:11:17] "[33mGET /static/image/52_bj.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:11:17] "[33mGET /static/image/26_bj.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:11:17] "[33mGET /static/image/21_bj.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:11:17] "[33mGET /static/image/3_bj.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:11:17] "[33mGET /static/image/11_bj.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:11:17] "[33mGET /static/image/16_bj.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:11:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:11:30] "GET /static/images/20_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:11:30] "GET /static/images/17_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:11:30] "GET /static/images/47_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:11:30] "GET /static/images/27_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:11:30] "[36mGET /static/images/36_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:11:30] "GET /static/images/21_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:11:30] "GET /static/images/3_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:11:30] "GET /static/images/34_bj.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/hono/Desktop/ice-recommend/src/models/icecream.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-964-368
+INFO:werkzeug: * Detected change in '/Users/hono/Desktop/ice-recommend/src/models/icecream.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-964-368
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:12:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:12:29] "GET /static/images/26_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:12:29] "GET /static/images/40_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:12:29] "GET /static/images/14_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:12:29] "GET /static/images/50_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:12:29] "GET /static/images/56_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:12:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:12:30] "GET /static/images/38_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:12:30] "[36mGET /static/images/21_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:12:30] "[33mGET /static/images/9_bj.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:12:30] "GET /static/images/22_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:12:30] "GET /static/images/25_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:12:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:12:31] "GET /static/images/43_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:12:31] "GET /static/images/31_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:12:31] "GET /static/images/2_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:12:31] "GET /static/images/48_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:12:31] "[36mGET /static/images/20_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:13:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:13:30] "GET /static/images/52_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:13:30] "[36mGET /static/images/37_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:13:30] "GET /static/images/39_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:13:30] "GET /static/images/6_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:13:30] "[36mGET /static/images/50_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:13:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:13:31] "[36mGET /static/images/2_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:13:31] "[36mGET /static/images/22_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:13:31] "[36mGET /static/images/36_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:13:31] "[36mGET /static/images/10_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:13:31] "[36mGET /static/images/47_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:13:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:13:47] "GET /static/images/16_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:13:47] "GET /static/images/46_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:13:47] "[36mGET /static/images/38_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:13:47] "[36mGET /static/images/56_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:14:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:14:58] "GET /static/images/18_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:14:58] "[36mGET /static/images/37_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:14:58] "[36mGET /static/images/6_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:14:58] "[36mGET /static/images/26_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:14:58] "[36mGET /static/images/21_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:21] "[36mGET /static/images/37_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:21] "[36mGET /static/images/56_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:21] "[36mGET /static/images/2_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:21] "[36mGET /static/images/6_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:21] "[36mGET /static/images/26_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:22] "[33mGET /static/images/49_bj.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:22] "GET /static/images/7_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:22] "[36mGET /static/images/46_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:22] "[36mGET /static/images/16_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:22] "GET /static/images/5_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:22] "[36mGET /static/images/52_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:22] "GET /static/images/4_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:22] "[36mGET /static/images/27_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:23] "[36mGET /static/images/23_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:23] "[36mGET /static/images/47_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:23] "[36mGET /static/images/34_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:23] "GET /static/images/15_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:23] "[36mGET /static/images/16_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:23] "[36mGET /static/images/18_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:23] "GET /static/images/42_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:23] "[36mGET /static/images/14_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:23] "GET /static/images/35_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:23] "[36mGET /static/images/3_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:24] "GET /static/images/45_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:24] "[36mGET /static/images/3_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:24] "[36mGET /static/images/5_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:24] "[36mGET /static/images/35_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:24] "[36mGET /static/images/44_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:24] "[36mGET /static/images/34_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:24] "[36mGET /static/images/25_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:24] "GET /static/images/53_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:24] "[36mGET /static/images/33_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:24] "[36mGET /static/images/23_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:24] "[33mGET /static/images/9_bj.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:24] "[36mGET /static/images/33_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:24] "[36mGET /static/images/46_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:24] "[36mGET /static/images/19_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:24] "[36mGET /static/images/16_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:24] "[36mGET /static/images/51_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:24] "[36mGET /static/images/3_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:24] "[36mGET /static/images/20_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:24] "[36mGET /static/images/18_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:25] "[36mGET /static/images/47_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:25] "[36mGET /static/images/29_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:25] "GET /static/images/54_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:25] "[36mGET /static/images/15_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:25] "[36mGET /static/images/40_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:25] "[36mGET /static/images/25_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:25] "[36mGET /static/images/2_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:25] "GET /static/images/13_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:25] "[36mGET /static/images/19_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:25] "[36mGET /static/images/15_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:25] "[36mGET /static/images/14_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:25] "[36mGET /static/images/56_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:25] "[36mGET /static/images/21_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:25] "[36mGET /static/images/48_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:25] "[36mGET /static/images/25_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:26] "[36mGET /static/images/23_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:26] "[36mGET /static/images/38_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:26] "GET /static/images/1_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:26] "[36mGET /static/images/26_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:26] "[36mGET /static/images/36_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:26] "[36mGET /static/images/15_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:26] "[36mGET /static/images/3_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:26] "[36mGET /static/images/38_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:26] "[36mGET /static/images/28_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:26] "[36mGET /static/images/21_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:27] "GET /static/images/12_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:27] "GET /static/images/24_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:27] "[36mGET /static/images/26_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:27] "[36mGET /static/images/51_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:28] "[33mGET /static/images/9_bj.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:28] "[36mGET /static/images/48_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:28] "[36mGET /static/images/2_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:28] "[36mGET /static/images/5_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:15:28] "[36mGET /static/images/10_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:12] "GET /static/images/44_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:12] "GET /static/images/55_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:12] "GET /static/images/37_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:12] "GET /static/images/16_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:12] "GET /static/images/13_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:13] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:13] "GET /static/images/45_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:13] "GET /static/images/54_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:13] "GET /static/images/20_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:13] "GET /static/images/24_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:14] "GET /static/images/8_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:14] "GET /static/images/38_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:14] "GET /static/images/51_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:14] "GET /static/images/32_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:14] "GET /static/images/53_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:14] "GET /static/images/1_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:14] "GET /static/images/15_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:14] "GET /static/images/16_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:14] "[33mGET /static/images/56_bj.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:14] "GET /static/images/11_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:15] "[33mGET /static/images/49_bj.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:15] "GET /static/images/45_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:15] "GET /static/images/50_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:15] "GET /static/images/8_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:15] "[33mGET /static/images/49_bj.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:15] "GET /static/images/53_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:15] "GET /static/images/46_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:15] "GET /static/images/9_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:15] "GET /static/images/47_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:15] "GET /static/images/35_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:16] "GET /static/images/2_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:16] "[33mGET /static/images/49_bj.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:16] "GET /static/images/4_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:16] "GET /static/images/28_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:16] "[33mGET /static/images/56_bj.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:16] "GET /static/images/19_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:16] "GET /static/images/43_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:16] "GET /static/images/2_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:17:16] "GET /static/images/24_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:14] "GET /static/images/35_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:14] "GET /static/images/16_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:14] "GET /static/images/32_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:14] "GET /static/images/44_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:14] "GET /static/images/28_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:15] "GET /static/images/43_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:15] "GET /static/images/1_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:15] "GET /static/images/10_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:15] "GET /static/images/20_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:15] "GET /static/images/41_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:15] "GET /static/images/8_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:15] "GET /static/images/31_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:15] "GET /static/images/22_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:15] "GET /static/images/20_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:15] "GET /static/images/37_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:16] "GET /static/images/29_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:16] "GET /static/images/30_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:16] "GET /static/images/6_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:16] "GET /static/images/38_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:16] "GET /static/images/39_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:17] "GET /static/images/45_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:17] "GET /static/images/27_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:17] "GET /static/images/41_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:17] "GET /static/images/23_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:17] "GET /static/images/12_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:21] "[36mGET /static/images/41_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:21] "[36mGET /static/images/45_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:21] "[36mGET /static/images/55_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:21] "[36mGET /static/images/47_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:21] "[36mGET /static/images/4_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:21] "[36mGET /static/images/48_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:21] "[36mGET /static/images/19_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:21] "[36mGET /static/images/23_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:22] "[36mGET /static/images/3_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:22] "[36mGET /static/images/20_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:22] "[36mGET /static/images/14_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:22] "[36mGET /static/images/15_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:22] "[36mGET /static/images/18_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:22] "[36mGET /static/images/20_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:22] "[36mGET /static/images/31_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:22] "[36mGET /static/images/47_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:22] "GET /static/images/56_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:22] "[36mGET /static/images/50_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:31] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:31] "[36mGET /static/images/41_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:31] "[36mGET /static/images/29_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:31] "[36mGET /static/images/45_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:31] "[36mGET /static/images/48_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:32] "[36mGET /static/images/39_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:32] "[36mGET /static/images/26_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:32] "[36mGET /static/images/25_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:32] "[36mGET /static/images/53_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:33] "[33mGET /static/images/49_bj.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:33] "[36mGET /static/images/51_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:33] "[36mGET /static/images/23_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:33] "[36mGET /static/images/40_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:33] "GET /static/images/0_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:33] "[36mGET /static/images/8_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:33] "[36mGET /static/images/23_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:33] "[36mGET /static/images/53_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:33] "[36mGET /static/images/2_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:34] "[36mGET /static/images/30_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:34] "[36mGET /static/images/36_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:34] "[36mGET /static/images/25_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:34] "[36mGET /static/images/40_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:34] "[36mGET /static/images/42_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:34] "[36mGET /static/images/18_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:34] "[36mGET /static/images/8_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:34] "[36mGET /static/images/3_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:34] "[36mGET /static/images/13_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:34] "[36mGET /static/images/20_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:34] "[36mGET /static/images/28_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:34] "[36mGET /static/images/26_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:34] "[36mGET /static/images/42_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:34] "[36mGET /static/images/42_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:34] "[36mGET /static/images/23_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:34] "[36mGET /static/images/30_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:34] "[36mGET /static/images/54_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:34] "[36mGET /static/images/37_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:34] "[36mGET /static/images/40_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:34] "[36mGET /static/images/21_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:34] "[36mGET /static/images/31_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:34] "[36mGET /static/images/16_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:35] "[36mGET /static/images/34_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:35] "[36mGET /static/images/33_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:35] "[36mGET /static/images/47_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:35] "[36mGET /static/images/41_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:35] "[36mGET /static/images/20_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:35] "[36mGET /static/images/3_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:35] "[36mGET /static/images/36_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:35] "[36mGET /static/images/27_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:35] "[36mGET /static/images/47_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:35] "[36mGET /static/images/8_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:35] "[36mGET /static/images/15_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:35] "[36mGET /static/images/34_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:35] "[36mGET /static/images/37_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:35] "[36mGET /static/images/4_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:35] "[36mGET /static/images/23_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:35] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:35] "[36mGET /static/images/53_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:35] "[36mGET /static/images/18_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:35] "[36mGET /static/images/0_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:35] "[36mGET /static/images/41_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:35] "[36mGET /static/images/46_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:36] "[36mGET /static/images/48_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:36] "[36mGET /static/images/38_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:36] "[36mGET /static/images/20_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:36] "[36mGET /static/images/26_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:36] "[36mGET /static/images/53_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:36] "[36mGET /static/images/40_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:36] "[36mGET /static/images/50_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:36] "[36mGET /static/images/39_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:36] "[36mGET /static/images/38_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:36] "[33mGET /static/images/49_bj.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:36] "[36mGET /static/images/28_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:36] "[36mGET /static/images/6_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:36] "[33mGET /static/images/49_bj.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:36] "[36mGET /static/images/8_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:36] "[36mGET /static/images/44_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:36] "[36mGET /static/images/28_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:36] "[36mGET /static/images/15_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:36] "[36mGET /static/images/40_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:36] "[36mGET /static/images/51_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:36] "[36mGET /static/images/35_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:36] "[36mGET /static/images/13_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:36] "[36mGET /static/images/18_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:36] "[36mGET /static/images/36_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:36] "[36mGET /static/images/23_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:37] "[36mGET /static/images/48_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:37] "[36mGET /static/images/8_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:37] "[36mGET /static/images/17_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:37] "[36mGET /static/images/23_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:37] "[36mGET /static/images/32_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:37] "[36mGET /static/images/9_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:37] "[36mGET /static/images/3_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:37] "[36mGET /static/images/24_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:37] "[36mGET /static/images/23_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:38] "[36mGET /static/images/10_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:38] "[36mGET /static/images/41_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:38] "[36mGET /static/images/56_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:38] "[36mGET /static/images/15_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:38] "[36mGET /static/images/32_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:38] "[36mGET /static/images/38_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:38] "[36mGET /static/images/45_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:38] "[36mGET /static/images/29_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:38] "[36mGET /static/images/26_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:38] "[36mGET /static/images/7_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:39] "[36mGET /static/images/40_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:39] "[36mGET /static/images/31_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:39] "[36mGET /static/images/54_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:39] "[36mGET /static/images/32_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:39] "[36mGET /static/images/17_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:39] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:39] "[36mGET /static/images/6_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:39] "[36mGET /static/images/44_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:39] "[36mGET /static/images/42_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:39] "[36mGET /static/images/19_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:39] "[36mGET /static/images/12_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:40] "[36mGET /static/images/28_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:40] "[36mGET /static/images/18_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:40] "[36mGET /static/images/53_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:40] "[36mGET /static/images/6_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:40] "[36mGET /static/images/50_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:41] "[36mGET /static/images/6_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:41] "[36mGET /static/images/40_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:41] "[36mGET /static/images/45_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:41] "[36mGET /static/images/51_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:41] "[36mGET /static/images/55_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:41] "[36mGET /static/images/16_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:41] "[36mGET /static/images/48_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:41] "[36mGET /static/images/19_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:41] "[36mGET /static/images/15_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:41] "[36mGET /static/images/25_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:42] "[36mGET /static/images/28_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:42] "[36mGET /static/images/9_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:42] "[36mGET /static/images/44_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:42] "[36mGET /static/images/17_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:42] "[36mGET /static/images/31_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:42] "[36mGET /static/images/3_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:42] "[36mGET /static/images/47_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:42] "[36mGET /static/images/15_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:42] "[36mGET /static/images/56_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:42] "[36mGET /static/images/16_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:43] "[36mGET /static/images/31_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:43] "[36mGET /static/images/15_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:43] "[36mGET /static/images/23_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:43] "[36mGET /static/images/11_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:43] "[36mGET /static/images/51_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:44] "[36mGET /static/images/45_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:44] "[36mGET /static/images/1_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:44] "[36mGET /static/images/12_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:44] "[36mGET /static/images/14_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:44] "[36mGET /static/images/9_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:44] "[36mGET /static/images/14_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:44] "[36mGET /static/images/50_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:44] "[36mGET /static/images/20_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:44] "[36mGET /static/images/41_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:44] "[36mGET /static/images/42_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:45] "[36mGET /static/images/10_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:45] "[36mGET /static/images/44_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:45] "[36mGET /static/images/54_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:45] "[36mGET /static/images/46_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:45] "[36mGET /static/images/25_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:46] "[36mGET /static/images/6_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:46] "[36mGET /static/images/43_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:46] "[36mGET /static/images/4_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:46] "[36mGET /static/images/7_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:46] "[36mGET /static/images/46_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:46] "[36mGET /static/images/12_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:46] "[36mGET /static/images/50_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:46] "[36mGET /static/images/31_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:46] "[36mGET /static/images/3_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:47] "[36mGET /static/images/14_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:47] "[36mGET /static/images/18_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:47] "[36mGET /static/images/2_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:47] "[36mGET /static/images/21_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:47] "[36mGET /static/images/12_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:47] "[36mGET /static/images/16_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:47] "[36mGET /static/images/48_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:47] "[36mGET /static/images/21_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:47] "[36mGET /static/images/29_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:47] "[36mGET /static/images/7_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:48] "[36mGET /static/images/20_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:48] "[36mGET /static/images/27_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:48] "[36mGET /static/images/36_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:48] "[36mGET /static/images/12_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:48] "[36mGET /static/images/40_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:49] "[36mGET /static/images/48_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:49] "[36mGET /static/images/31_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:49] "[36mGET /static/images/3_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:49] "[36mGET /static/images/34_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:49] "[36mGET /static/images/11_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:49] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:49] "[36mGET /static/images/29_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:49] "[36mGET /static/images/23_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:49] "[33mGET /static/images/49_bj.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:49] "[36mGET /static/images/8_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:49] "[36mGET /static/images/4_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:50] "[36mGET /static/images/35_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:50] "[36mGET /static/images/33_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:50] "[36mGET /static/images/34_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:50] "[36mGET /static/images/5_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:50] "[36mGET /static/images/17_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:50] "[36mGET /static/images/19_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:50] "[33mGET /static/images/49_bj.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:50] "[36mGET /static/images/54_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:50] "[36mGET /static/images/56_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:51] "[36mGET /static/images/4_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:51] "[36mGET /static/images/43_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:51] "[36mGET /static/images/40_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:51] "[33mGET /static/images/49_bj.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:18:51] "[36mGET /static/images/13_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:21:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:21:18] "GET /static/images/0_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:21:18] "GET /static/images/33_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:21:18] "GET /static/images/36_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:21:18] "GET /static/images/11_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:21:18] "GET /static/images/51_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:21:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:21:19] "GET /static/images/29_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:21:19] "GET /static/images/23_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:21:19] "GET /static/images/16_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:21:19] "GET /static/images/38_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:21:19] "GET /static/images/27_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:21:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:21:24] "[36mGET /static/images/30_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:21:24] "[36mGET /static/images/36_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:21:24] "[36mGET /static/images/5_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:21:24] "[36mGET /static/images/32_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:21:24] "[36mGET /static/images/55_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:21:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:21:28] "[33mGET /static/images/49_bj.png HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:21:28] "[36mGET /static/images/43_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:21:28] "[36mGET /static/images/51_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:21:28] "[36mGET /static/images/55_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:21:28] "[36mGET /static/images/44_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-964-368
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:09] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:09] "GET /static/images/32_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:09] "GET /static/images/12_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:09] "GET /static/images/25_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:09] "GET /static/images/11_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:09] "GET /static/images/54_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:10] "GET /static/images/27_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:10] "GET /static/images/5_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:10] "GET /static/images/13_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:10] "GET /static/images/22_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:10] "GET /static/images/39_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:10] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:10] "GET /static/images/22_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:10] "GET /static/images/23_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:10] "GET /static/images/27_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:10] "GET /static/images/5_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:10] "GET /static/images/37_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:11] "GET /static/images/27_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:11] "GET /static/images/29_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:11] "GET /static/images/4_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:11] "GET /static/images/15_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:11] "GET /static/images/16_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:16] "[36mGET /static/images/34_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:16] "[36mGET /static/images/45_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:16] "[36mGET /static/images/17_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:16] "[36mGET /static/images/39_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:16] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:16] "[36mGET /static/images/19_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:16] "[36mGET /static/images/24_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:16] "[36mGET /static/images/20_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:16] "GET /static/images/49_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:16] "[36mGET /static/images/50_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:17] "[36mGET /static/images/22_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:17] "[36mGET /static/images/37_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:17] "[36mGET /static/images/35_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:17] "[36mGET /static/images/24_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:17] "[36mGET /static/images/12_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:18] "[36mGET /static/images/20_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:18] "[36mGET /static/images/23_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:18] "[36mGET /static/images/32_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:18] "[36mGET /static/images/0_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:18] "[36mGET /static/images/22_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:18] "[36mGET /static/images/24_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:18] "[36mGET /static/images/49_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:18] "[36mGET /static/images/35_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:18] "[36mGET /static/images/43_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:18] "[36mGET /static/images/7_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:19] "[36mGET /static/images/34_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:19] "[36mGET /static/images/26_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:19] "[36mGET /static/images/23_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:19] "[36mGET /static/images/24_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:19] "GET /static/images/9_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:20] "[36mGET /static/images/15_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:20] "[36mGET /static/images/54_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:20] "[36mGET /static/images/22_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:20] "[36mGET /static/images/31_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:20] "[36mGET /static/images/11_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:21] "[36mGET /static/images/2_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:21] "[36mGET /static/images/26_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:21] "[36mGET /static/images/29_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:21] "[36mGET /static/images/28_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:21] "[36mGET /static/images/20_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:21] "[36mGET /static/images/44_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:21] "[36mGET /static/images/18_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:21] "[36mGET /static/images/48_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:21] "[36mGET /static/images/26_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:22] "[36mGET /static/images/7_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:22] "[36mGET /static/images/30_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:22] "[36mGET /static/images/45_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:22] "[36mGET /static/images/21_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:22] "[36mGET /static/images/12_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:22] "[36mGET /static/images/41_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:22] "[36mGET /static/images/9_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:22] "[36mGET /static/images/7_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:22] "[36mGET /static/images/24_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:23] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:23] "[36mGET /static/images/3_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:23] "[36mGET /static/images/6_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:23] "[36mGET /static/images/12_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:23] "[36mGET /static/images/39_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:23] "[36mGET /static/images/40_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:24] "[36mGET /static/images/55_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:24] "[36mGET /static/images/37_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:24] "[36mGET /static/images/44_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:24] "[36mGET /static/images/50_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:24] "[36mGET /static/images/47_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:24] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:25] "[36mGET /static/images/34_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:25] "[36mGET /static/images/17_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:25] "[36mGET /static/images/45_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:25] "[36mGET /static/images/39_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:25] "[36mGET /static/images/19_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:25] "[36mGET /static/images/30_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:25] "[36mGET /static/images/51_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:25] "[36mGET /static/images/31_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:25] "[36mGET /static/images/7_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:25] "[36mGET /static/images/50_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:26] "[36mGET /static/images/19_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:26] "[36mGET /static/images/45_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:26] "[36mGET /static/images/17_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:26] "[36mGET /static/images/12_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:26] "[36mGET /static/images/32_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:26] "[36mGET /static/images/49_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:26] "[36mGET /static/images/8_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:26] "[36mGET /static/images/32_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:26] "[36mGET /static/images/9_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:23:27] "[36mGET /static/images/33_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:33:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:33:48] "[36mGET /static/images/17_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:33:48] "[36mGET /static/images/0_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:33:48] "[36mGET /static/images/51_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:33:48] "[36mGET /static/images/40_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:33:48] "[36mGET /static/images/24_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:34:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:34:08] "[36mGET /static/images/5_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:34:08] "[36mGET /static/images/1_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:34:08] "[36mGET /static/images/50_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:34:08] "[36mGET /static/images/2_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:34:08] "[36mGET /static/images/18_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:34:19] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:34:19] "[36mGET /static/images/3_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:34:19] "[36mGET /static/images/44_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:34:19] "[36mGET /static/images/34_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:34:19] "[36mGET /static/images/12_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:34:19] "[36mGET /static/images/40_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:36:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:36:12] "[36mGET /static/images/6_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:36:12] "[36mGET /static/images/39_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:36:12] "[36mGET /static/images/3_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:36:12] "[36mGET /static/images/47_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:36:12] "[36mGET /static/images/11_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:36:32] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:36:32] "[36mGET /static/images/8_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:36:32] "[36mGET /static/images/54_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:36:32] "[36mGET /static/images/41_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:36:32] "[36mGET /static/images/50_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:36:32] "[36mGET /static/images/14_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:37:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:37:40] "[36mGET /static/images/36_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:37:40] "[36mGET /static/images/15_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:37:40] "[36mGET /static/images/7_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:37:40] "[36mGET /static/images/18_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:38:15] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:38:15] "[36mGET /static/images/39_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:38:15] "[36mGET /static/images/31_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:38:15] "[36mGET /static/images/20_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:38:15] "[36mGET /static/images/46_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:38:15] "[36mGET /static/images/16_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:38:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:38:45] "[36mGET /static/images/45_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:38:45] "[36mGET /static/images/17_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:38:45] "[36mGET /static/images/4_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:38:45] "[36mGET /static/images/55_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:38:45] "[36mGET /static/images/43_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:25] "[36mGET /static/images/45_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:25] "[36mGET /static/images/18_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:25] "[36mGET /static/images/8_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:25] "[36mGET /static/images/41_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:25] "[36mGET /static/images/56_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:25] "[36mGET /static/images/10_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:25] "[36mGET /static/images/44_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:25] "[36mGET /static/images/45_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:25] "[36mGET /static/images/30_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:25] "[36mGET /static/images/48_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:26] "[36mGET /static/images/31_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:26] "[36mGET /static/images/50_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:26] "[36mGET /static/images/52_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:26] "[36mGET /static/images/17_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:26] "[36mGET /static/images/33_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:26] "[36mGET /static/images/10_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:26] "[36mGET /static/images/13_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:26] "[36mGET /static/images/7_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:26] "[36mGET /static/images/44_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:26] "[36mGET /static/images/56_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:26] "[36mGET /static/images/21_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:26] "[36mGET /static/images/30_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:26] "[36mGET /static/images/9_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:26] "[36mGET /static/images/56_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:26] "[36mGET /static/images/51_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:26] "[36mGET /static/images/42_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:26] "[36mGET /static/images/51_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:26] "[36mGET /static/images/13_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:26] "[36mGET /static/images/15_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:26] "[36mGET /static/images/44_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:26] "[36mGET /static/images/24_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:26] "[36mGET /static/images/29_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:26] "[36mGET /static/images/51_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:26] "[36mGET /static/images/14_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:26] "[36mGET /static/images/21_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:27] "[36mGET /static/images/22_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:27] "[36mGET /static/images/5_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:27] "[36mGET /static/images/1_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:27] "[36mGET /static/images/42_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:27] "[36mGET /static/images/47_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:27] "[36mGET /static/images/36_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:27] "[36mGET /static/images/39_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:27] "[36mGET /static/images/14_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:27] "[36mGET /static/images/52_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:27] "[36mGET /static/images/55_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:27] "[36mGET /static/images/43_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:27] "[36mGET /static/images/1_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:27] "[36mGET /static/images/5_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:27] "[36mGET /static/images/22_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:27] "[36mGET /static/images/27_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:27] "[36mGET /static/images/20_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:27] "[36mGET /static/images/22_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:27] "[36mGET /static/images/10_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:27] "[36mGET /static/images/13_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:27] "[36mGET /static/images/5_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:27] "[36mGET /static/images/21_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:27] "[36mGET /static/images/12_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:27] "[36mGET /static/images/11_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:27] "[36mGET /static/images/22_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:27] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:28] "[36mGET /static/images/51_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:28] "[36mGET /static/images/10_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:28] "[36mGET /static/images/23_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:28] "[36mGET /static/images/27_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:28] "[36mGET /static/images/17_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:28] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:28] "[36mGET /static/images/33_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:28] "[36mGET /static/images/36_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:28] "[36mGET /static/images/52_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:28] "[36mGET /static/images/8_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:39:28] "[36mGET /static/images/0_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:41:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:41:04] "[36mGET /static/images/36_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:41:04] "[36mGET /static/images/34_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:41:04] "[36mGET /static/images/21_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:41:04] "[36mGET /static/images/9_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:41:40] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:41:40] "[36mGET /static/images/37_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:41:40] "[36mGET /static/images/25_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:41:40] "[36mGET /static/images/36_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:41:40] "[36mGET /static/images/43_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:41:40] "[36mGET /static/images/54_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:41:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:41:55] "[36mGET /static/images/44_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:41:55] "[36mGET /static/images/36_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:41:55] "[36mGET /static/images/39_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:41:55] "[36mGET /static/images/15_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:41:55] "[36mGET /static/images/0_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:42:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:42:33] "[36mGET /static/images/50_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:42:33] "[36mGET /static/images/29_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:42:33] "[36mGET /static/images/32_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:42:33] "[36mGET /static/images/12_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:42:33] "[36mGET /static/images/9_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:42:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:42:34] "[36mGET /static/images/30_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:42:34] "[36mGET /static/images/41_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:42:34] "[36mGET /static/images/53_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:42:34] "[36mGET /static/images/31_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:42:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:42:55] "GET /static/images/0_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:42:55] "GET /static/images/44_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:42:55] "GET /static/images/47_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:42:55] "GET /static/images/28_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:42:55] "GET /static/images/29_bj.png HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/Users/hono/Desktop/ice-recommend/src/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-964-368
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:47:48] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:47:48] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:47:48] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:47:48] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:47:48] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:47:49] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:47:49] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:47:49] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:47:49] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:47:49] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/hono/Desktop/ice-recommend/src/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-964-368
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:48:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:48:34] "[36mGET /static/images/56_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:48:34] "[36mGET /static/images/2_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:48:34] "[36mGET /static/images/4_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:48:34] "[36mGET /static/images/18_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:49:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:49:04] "[36mGET /static/images/28_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:49:04] "[36mGET /static/images/9_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:49:04] "[36mGET /static/images/49_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:49:04] "[36mGET /static/images/33_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:49:04] "[36mGET /static/images/48_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/hono/Desktop/ice-recommend/src/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-964-368
+INFO:werkzeug: * Detected change in '/Users/hono/Desktop/ice-recommend/src/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-964-368
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:52:06] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:52:06] "[36mGET /static/images/4_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:52:06] "[36mGET /static/images/49_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:52:06] "[36mGET /static/images/13_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:52:06] "[36mGET /static/images/36_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 18:52:06] "[36mGET /static/images/43_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/hono/Desktop/ice-recommend/src/main.py', reloading
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-964-368
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:42] "[36mGET /static/images/50_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:42] "[36mGET /static/images/11_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:42] "[36mGET /static/images/38_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:42] "[36mGET /static/images/0_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:42] "[36mGET /static/images/9_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:43] "[36mGET /static/images/48_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:43] "[36mGET /static/images/7_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:43] "[36mGET /static/images/56_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:43] "[36mGET /static/images/12_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:43] "[36mGET /static/images/32_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:44] "[36mGET /static/images/32_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:44] "[36mGET /static/images/37_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:44] "[36mGET /static/images/54_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:44] "[36mGET /static/images/53_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:44] "[36mGET /static/images/51_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:44] "[36mGET /static/images/7_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:44] "[36mGET /static/images/8_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:44] "[36mGET /static/images/54_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:44] "[36mGET /static/images/48_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:44] "[36mGET /static/images/6_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:45] "[36mGET /static/images/9_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:45] "[36mGET /static/images/4_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:45] "[36mGET /static/images/23_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:45] "[36mGET /static/images/13_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:45] "[36mGET /static/images/47_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:45] "[36mGET /static/images/15_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:45] "[36mGET /static/images/43_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:45] "[36mGET /static/images/34_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:45] "[36mGET /static/images/53_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:45] "[36mGET /static/images/43_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:45] "[36mGET /static/images/19_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:45] "[36mGET /static/images/47_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:45] "[36mGET /static/images/35_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:45] "[36mGET /static/images/25_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:45] "[36mGET /static/images/20_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:45] "[36mGET /static/images/39_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:45] "[36mGET /static/images/55_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:45] "[36mGET /static/images/53_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:45] "[36mGET /static/images/21_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:46] "[36mGET /static/images/14_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:46] "[36mGET /static/images/29_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:46] "[36mGET /static/images/11_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:46] "[36mGET /static/images/35_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:46] "[36mGET /static/images/10_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:46] "[36mGET /static/images/7_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:46] "[36mGET /static/images/52_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:46] "[36mGET /static/images/54_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:46] "[36mGET /static/images/25_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:46] "[36mGET /static/images/56_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:46] "[36mGET /static/images/44_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:46] "[36mGET /static/images/35_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:46] "[36mGET /static/images/36_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:46] "[36mGET /static/images/52_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:46] "[36mGET /static/images/27_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:46] "[36mGET /static/images/15_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:46] "[36mGET /static/images/37_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:46] "[36mGET /static/images/3_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:46] "[36mGET /static/images/13_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:46] "[36mGET /static/images/41_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:47] "[36mGET /static/images/3_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:47] "[36mGET /static/images/4_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:47] "[36mGET /static/images/46_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:47] "[36mGET /static/images/33_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:47] "[36mGET /static/images/19_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:47] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:47] "[36mGET /static/images/8_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:47] "[36mGET /static/images/24_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:47] "[36mGET /static/images/36_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:47] "[36mGET /static/images/38_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:47] "[36mGET /static/images/45_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:48] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:48] "[36mGET /static/images/41_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:48] "[36mGET /static/images/16_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:48] "[36mGET /static/images/14_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:48] "[36mGET /static/images/56_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:48] "[36mGET /static/images/1_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:51] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:51] "[36mGET /static/images/43_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:51] "[36mGET /static/images/47_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:51] "[36mGET /static/images/29_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:51] "[36mGET /static/images/46_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:51] "[36mGET /static/images/32_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:52] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:52] "[36mGET /static/images/13_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:52] "[36mGET /static/images/35_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:52] "[36mGET /static/images/45_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:52] "[36mGET /static/images/56_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:52] "[36mGET /static/images/3_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:54] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:54] "[36mGET /static/images/20_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:54] "[36mGET /static/images/41_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:54] "[36mGET /static/images/53_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:54] "[36mGET /static/images/55_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:54] "[36mGET /static/images/31_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:55] "[36mGET /static/images/42_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:55] "[36mGET /static/images/2_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:55] "[36mGET /static/images/45_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:55] "[36mGET /static/images/31_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:55] "[36mGET /static/images/52_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:55] "[36mGET /static/images/6_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:55] "[36mGET /static/images/2_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:55] "[36mGET /static/images/37_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:55] "[36mGET /static/images/34_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:55] "[36mGET /static/images/5_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:55] "[36mGET /static/images/24_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:55] "[36mGET /static/images/36_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:55] "[36mGET /static/images/19_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:55] "[36mGET /static/images/22_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:56] "[36mGET /static/images/24_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:56] "[36mGET /static/images/20_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:56] "[36mGET /static/images/28_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:56] "[36mGET /static/images/49_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:56] "[36mGET /static/images/29_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:56] "[36mGET /static/images/12_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:56] "[36mGET /static/images/22_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:56] "[36mGET /static/images/28_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:56] "[36mGET /static/images/48_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:56] "[36mGET /static/images/39_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:56] "[36mGET /static/images/39_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:56] "[36mGET /static/images/17_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:56] "[36mGET /static/images/26_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:56] "[36mGET /static/images/56_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:56] "[36mGET /static/images/21_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:56] "[36mGET /static/images/6_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:56] "[36mGET /static/images/45_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:56] "[36mGET /static/images/2_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:56] "[36mGET /static/images/41_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:56] "[36mGET /static/images/47_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:56] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:56] "[36mGET /static/images/56_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:56] "[36mGET /static/images/53_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:56] "[36mGET /static/images/27_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:19:56] "[36mGET /static/images/3_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:20:57] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:20:57] "[36mGET /static/images/51_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:20:57] "[36mGET /static/images/45_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:20:57] "[36mGET /static/images/32_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:20:57] "[36mGET /static/images/9_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:20:57] "[36mGET /static/images/20_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:21:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:21:33] "[36mGET /static/images/42_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:21:33] "[36mGET /static/images/9_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:21:33] "[36mGET /static/images/0_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:21:33] "[36mGET /static/images/11_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:21:33] "[36mGET /static/images/56_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:23:36] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:23:36] "[36mGET /static/images/47_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:23:36] "[36mGET /static/images/45_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:23:36] "[36mGET /static/images/12_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:23:36] "[36mGET /static/images/43_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:23:36] "[36mGET /static/images/30_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:23:41] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:23:41] "[36mGET /static/images/18_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:23:41] "[36mGET /static/images/23_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:23:41] "[36mGET /static/images/21_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:23:41] "[36mGET /static/images/46_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:23:41] "[36mGET /static/images/43_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:23:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:23:42] "[36mGET /static/images/11_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:23:42] "[36mGET /static/images/38_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:23:42] "[36mGET /static/images/24_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:23:42] "[36mGET /static/images/36_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:23:42] "[36mGET /static/images/40_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:23:43] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:23:43] "[36mGET /static/images/56_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:23:43] "[36mGET /static/images/23_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:23:43] "[36mGET /static/images/22_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:23:43] "[36mGET /static/images/18_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:23:43] "[36mGET /static/images/9_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:23:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:23:45] "[36mGET /static/images/21_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:23:45] "[36mGET /static/images/31_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:23:45] "[36mGET /static/images/54_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:23:45] "[36mGET /static/images/37_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:23:45] "[36mGET /static/images/19_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:25:50] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:25:50] "GET /static/images/47_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:25:50] "GET /static/images/22_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:25:50] "GET /static/images/28_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:25:50] "GET /static/images/44_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:25:50] "GET /static/images/14_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:26:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:26:55] "GET /static/images/0_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:26:56] "GET /static/images/43_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:26:56] "GET /static/images/36_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:26:56] "GET /static/images/12_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:26:56] "GET /static/images/14_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:27:33] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:27:33] "GET /static/images/29_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:27:33] "GET /static/images/33_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:27:33] "GET /static/images/36_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:27:33] "GET /static/images/37_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:27:33] "GET /static/images/44_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:27:33] "GET /static/images/23_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:27:33] "GET /static/images/10_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:27:33] "GET /static/images/5_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:27:33] "GET /static/images/19_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:27:33] "GET /static/images/51_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:27:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:27:44] "GET /static/images/2_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:27:44] "GET /static/images/3_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:27:44] "GET /static/images/27_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:27:44] "GET /static/images/1_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:27:44] "GET /static/images/32_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:28:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:28:17] "GET /static/images/26_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:28:17] "GET /static/images/42_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:28:17] "GET /static/images/15_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:28:17] "GET /static/images/22_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:28:17] "GET /static/images/49_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:28:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:28:45] "[36mGET /static/images/19_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:28:45] "[36mGET /static/images/49_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:28:45] "[36mGET /static/images/27_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:28:45] "[36mGET /static/images/37_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:28:45] "[36mGET /static/images/54_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:29:11] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:29:11] "[36mGET /static/images/22_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:29:11] "[36mGET /static/images/52_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:29:11] "[36mGET /static/images/14_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:29:11] "[36mGET /static/images/29_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:29:11] "[36mGET /static/images/28_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:29:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:29:12] "[36mGET /static/images/37_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:29:12] "[36mGET /static/images/13_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:29:12] "[36mGET /static/images/30_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:29:12] "[36mGET /static/images/53_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:29:12] "[36mGET /static/images/41_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/hono/Desktop/ice-recommend/src/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-964-368
+INFO:werkzeug: * Detected change in '/Users/hono/Desktop/ice-recommend/src/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-964-368
+INFO:werkzeug: * Detected change in '/Users/hono/Desktop/ice-recommend/src/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-964-368
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:30:19] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:30:19] "[36mGET /static/images/52_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:30:19] "[36mGET /static/images/8_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:30:19] "[36mGET /static/images/33_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:30:19] "[36mGET /static/images/15_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:30:19] "[36mGET /static/images/55_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:34:27] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:34:27] "[36mGET /static/images/27_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:34:27] "[36mGET /static/images/4_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:34:27] "[36mGET /static/images/46_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:34:27] "[36mGET /static/images/22_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:34:27] "[36mGET /static/images/42_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:34:35] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:34:35] "[36mGET /static/images/37_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:34:35] "[36mGET /static/images/8_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:34:35] "[36mGET /static/images/11_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:34:35] "[36mGET /static/images/44_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:34:35] "[36mGET /static/images/30_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/hono/Desktop/ice-recommend/src/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-964-368
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:36:23] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:36:23] "[36mGET /static/images/18_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:36:23] "[36mGET /static/images/27_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:36:23] "[36mGET /static/images/34_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:36:23] "[36mGET /static/images/22_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:36:23] "[36mGET /static/images/44_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/hono/Desktop/ice-recommend/src/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-964-368
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:36:47] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:36:47] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:36:47] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:36:47] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:36:48] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/hono/Desktop/ice-recommend/src/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-964-368
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:37:23] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:37:23] "[36mGET /static/images/9_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:37:23] "[36mGET /static/images/29_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:37:23] "[36mGET /static/images/40_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:37:23] "[36mGET /static/images/34_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:37:23] "[36mGET /static/images/32_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/hono/Desktop/ice-recommend/src/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-964-368
+INFO:werkzeug: * Detected change in '/Users/hono/Desktop/ice-recommend/src/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-964-368
+INFO:werkzeug: * Detected change in '/Users/hono/Desktop/ice-recommend/src/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-964-368
+INFO:werkzeug: * Detected change in '/Users/hono/Desktop/ice-recommend/src/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-964-368
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:43:10] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:43:10] "[36mGET /static/images/1_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:43:10] "[36mGET /static/images/4_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:43:10] "[36mGET /static/images/48_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:43:10] "[36mGET /static/images/26_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/hono/Desktop/ice-recommend/src/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-964-368
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:43:40] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:43:40] "[36mGET /static/images/11_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:43:40] "[36mGET /static/images/2_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:43:40] "[36mGET /static/images/44_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:43:40] "[36mGET /static/images/38_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:43:40] "[36mGET /static/images/28_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/hono/Desktop/ice-recommend/src/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-964-368
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:43:52] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:43:52] "[36mGET /static/images/36_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:43:52] "[36mGET /static/images/13_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:43:52] "[36mGET /static/images/52_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:43:52] "[36mGET /static/images/31_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:43:52] "[36mGET /static/images/53_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/hono/Desktop/ice-recommend/src/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-964-368
+INFO:werkzeug: * Detected change in '/Users/hono/Desktop/ice-recommend/src/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-964-368
+INFO:werkzeug: * Detected change in '/Users/hono/Desktop/ice-recommend/src/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-964-368
+INFO:werkzeug: * Detected change in '/Users/hono/Desktop/ice-recommend/src/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-964-368
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:48:50] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:48:50] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:48:50] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:48:50] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [06/Nov/2022 20:48:50] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-964-368
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-964-368
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:51:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:51:18] "[36mGET /static/images/44_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:51:18] "[36mGET /static/images/27_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:51:18] "[36mGET /static/images/29_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:51:18] "[36mGET /static/images/6_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:51:18] "[36mGET /static/images/37_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:51:20] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:51:25] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:51:25] "[36mGET /static/images/36_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:51:25] "GET /static/images/34_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:51:25] "[36mGET /static/images/39_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:51:25] "[36mGET /static/images/29_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:51:26] "[36mGET /static/images/30_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:51:26] "[36mGET /static/images/23_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:51:26] "[36mGET /static/images/33_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:51:26] "[36mGET /static/images/28_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:51:26] "[36mGET /static/images/9_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:51:26] "[36mGET /static/images/16_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:53:42] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:53:42] "[36mGET /static/images/33_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:53:42] "[36mGET /static/images/30_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:53:42] "[36mGET /static/images/2_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:53:42] "GET /static/images/5_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:53:42] "[36mGET /static/images/36_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:53:42] "[36mGET /static/images/19_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:53:42] "[36mGET /static/images/32_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:53:42] "[36mGET /static/images/12_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:53:42] "[36mGET /static/images/9_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:53:42] "[36mGET /static/images/51_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:54:35] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:54:35] "[36mGET /static/images/8_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:54:35] "[36mGET /static/images/49_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:54:35] "[36mGET /static/images/33_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:54:35] "[36mGET /static/images/12_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:54:35] "[36mGET /static/images/16_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:54:35] "[36mGET /static/images/5_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:54:35] "[36mGET /static/images/54_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:54:35] "[36mGET /static/images/22_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:54:35] "[36mGET /static/images/51_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:54:35] "[36mGET /static/images/36_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:54:53] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:54:53] "[36mGET /static/images/36_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:54:53] "[36mGET /static/images/31_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:54:53] "[36mGET /static/images/12_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:54:53] "[36mGET /static/images/2_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:54:53] "[36mGET /static/images/9_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:54:53] "[36mGET /static/images/43_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:54:53] "[36mGET /static/images/33_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:54:53] "[36mGET /static/images/28_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:54:53] "[36mGET /static/images/4_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:54:53] "[36mGET /static/images/30_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:55:01] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:55:01] "[36mGET /static/images/28_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:55:01] "[36mGET /static/images/36_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:55:01] "[36mGET /static/images/33_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:55:01] "[36mGET /static/images/51_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:55:01] "[36mGET /static/images/34_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:55:01] "[36mGET /static/images/10_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:55:01] "[36mGET /static/images/19_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:55:01] "[36mGET /static/images/39_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:55:01] "[36mGET /static/images/12_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:55:01] "[36mGET /static/images/16_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:56:48] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:56:48] "GET /static/images/34_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:56:48] "GET /static/images/51_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:56:48] "GET /static/images/33_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:56:48] "GET /static/images/49_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:56:48] "GET /static/images/43_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:56:48] "GET /static/images/36_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:56:48] "GET /static/images/48_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:56:48] "GET /static/images/5_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:56:48] "GET /static/images/9_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:56:48] "GET /static/images/23_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:57:24] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:57:24] "[36mGET /static/images/51_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:57:24] "[36mGET /static/images/33_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:57:24] "[36mGET /static/images/19_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:57:24] "[36mGET /static/images/36_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:57:24] "[36mGET /static/images/10_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:57:24] "[36mGET /static/images/16_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:57:24] "[36mGET /static/images/5_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:57:24] "[36mGET /static/images/12_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:57:24] "[36mGET /static/images/23_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:57:24] "[36mGET /static/images/14_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:59:03] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:59:03] "GET /static/images/51_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:59:03] "GET /static/images/28_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:59:03] "GET /static/images/33_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:59:03] "GET /static/images/56_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:59:03] "GET /static/images/34_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:59:03] "GET /static/images/48_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:59:03] "GET /static/images/36_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:59:03] "GET /static/images/22_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:59:03] "GET /static/images/23_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:59:03] "GET /static/images/5_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:59:24] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:59:24] "GET /static/images/19_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:59:24] "GET /static/images/33_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:59:24] "GET /static/images/30_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:59:24] "GET /static/images/36_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:59:24] "GET /static/images/23_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:59:24] "GET /static/images/28_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:59:24] "GET /static/images/10_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:59:24] "GET /static/images/43_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:59:24] "GET /static/images/2_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 05:59:24] "GET /static/images/12_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:01:22] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:01:22] "[36mGET /static/images/28_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:01:22] "[36mGET /static/images/30_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:01:22] "[36mGET /static/images/33_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:01:22] "[36mGET /static/images/19_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:01:22] "[36mGET /static/images/48_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:01:22] "[36mGET /static/images/23_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:01:22] "[36mGET /static/images/47_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:01:22] "[36mGET /static/images/31_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:01:22] "[36mGET /static/images/32_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:01:22] "[36mGET /static/images/56_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:02:01] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:02:01] "[36mGET /static/images/33_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:02:01] "GET /static/images/42_bj.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:02:01] "[36mGET /static/images/16_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:02:01] "[36mGET /static/images/32_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:02:01] "[36mGET /static/images/36_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:02:01] "[36mGET /static/images/43_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:02:01] "[36mGET /static/images/31_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:02:01] "[36mGET /static/images/48_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:02:01] "[36mGET /static/images/39_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:02:01] "[36mGET /static/images/10_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:02:09] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:02:09] "[36mGET /static/images/33_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:02:09] "[36mGET /static/images/10_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:02:09] "[36mGET /static/images/43_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:02:09] "[36mGET /static/images/36_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:02:09] "[36mGET /static/images/23_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:02:09] "[36mGET /static/images/19_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:02:09] "[36mGET /static/images/2_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:02:09] "[36mGET /static/images/5_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:02:09] "[36mGET /static/images/31_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:02:09] "[36mGET /static/images/32_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/hono/Desktop/ice-recommend/src/models/rate.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-964-368
+INFO:werkzeug: * Detected change in '/Users/hono/Desktop/ice-recommend/src/settings.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-964-368
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:03:38] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:03:38] "[36mGET /static/images/30_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:03:38] "[36mGET /static/images/34_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:03:38] "[36mGET /static/images/19_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:03:38] "[36mGET /static/images/23_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:03:38] "[36mGET /static/images/32_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:03:38] "[36mGET /static/images/10_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:03:38] "[36mGET /static/images/36_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:03:38] "[36mGET /static/images/33_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:03:38] "[36mGET /static/images/2_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:05:44] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:05:44] "[36mGET /static/images/47_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:05:44] "[36mGET /static/images/42_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:05:44] "[36mGET /static/images/20_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:05:44] "[36mGET /static/images/22_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:05:44] "[36mGET /static/images/7_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:06:02] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:06:02] "[36mGET /static/images/36_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:06:02] "[36mGET /static/images/28_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:06:02] "[36mGET /static/images/33_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:06:02] "[36mGET /static/images/10_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:06:02] "[36mGET /static/images/30_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:06:02] "[36mGET /static/images/32_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:06:02] "[36mGET /static/images/23_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:06:02] "[36mGET /static/images/2_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:06:02] "[36mGET /static/images/39_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:06:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:06:07] "[36mGET /static/images/7_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:06:07] "[36mGET /static/images/35_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:06:07] "[36mGET /static/images/47_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:06:07] "[36mGET /static/images/50_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:06:07] "[36mGET /static/images/28_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:06:23] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:06:23] "[36mGET /static/images/35_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:06:23] "[36mGET /static/images/16_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:06:23] "[36mGET /static/images/10_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:06:23] "[36mGET /static/images/51_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:06:23] "[36mGET /static/images/56_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:06:23] "[36mGET /static/images/48_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:06:23] "[36mGET /static/images/5_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:06:23] "[36mGET /static/images/33_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:06:23] "[36mGET /static/images/23_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:06:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:06:29] "[36mGET /static/images/36_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:06:29] "[36mGET /static/images/35_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:06:29] "[36mGET /static/images/14_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:06:29] "[36mGET /static/images/47_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:06:29] "[36mGET /static/images/1_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:06:44] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:06:44] "[36mGET /static/images/36_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:06:44] "[36mGET /static/images/33_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:06:44] "[36mGET /static/images/23_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:06:44] "[36mGET /static/images/31_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:06:44] "[36mGET /static/images/30_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:06:44] "[36mGET /static/images/2_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:06:44] "[36mGET /static/images/48_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:06:44] "[36mGET /static/images/5_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:06:44] "[36mGET /static/images/9_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-964-368
+INFO:werkzeug: * Detected change in '/Users/hono/Desktop/ice-recommend/src/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-964-368
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:09:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:09:04] "[36mGET /static/images/49_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:09:04] "[36mGET /static/images/41_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:09:04] "[36mGET /static/images/7_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:09:04] "[36mGET /static/images/39_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:09:04] "[36mGET /static/images/18_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:09:26] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:09:26] "[36mGET /static/images/37_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:09:26] "[36mGET /static/images/29_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:09:26] "[36mGET /static/images/43_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:09:26] "[36mGET /static/images/36_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:09:26] "[36mGET /static/images/22_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:09:26] "[36mGET /static/images/10_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:09:26] "[36mGET /static/images/2_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:09:26] "[36mGET /static/images/33_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:09:26] "[36mGET /static/images/44_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/hono/Desktop/ice-recommend/src/main.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-964-368
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:10:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:10:03] "[36mGET /static/images/13_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:10:03] "[36mGET /static/images/51_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:10:03] "[36mGET /static/images/26_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:10:03] "[36mGET /static/images/55_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:10:03] "[36mGET /static/images/20_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:10:16] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:10:16] "[36mGET /static/images/5_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:10:16] "[36mGET /static/images/43_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:10:16] "[36mGET /static/images/51_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:10:16] "[36mGET /static/images/29_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:10:16] "[36mGET /static/images/14_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:10:16] "[36mGET /static/images/37_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:10:16] "[36mGET /static/images/7_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:10:16] "[36mGET /static/images/44_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:10:16] "[36mGET /static/images/12_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/hono/Desktop/ice-recommend/src/models/rate.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-964-368
+INFO:werkzeug: * Detected change in '/Users/hono/Desktop/ice-recommend/src/models/rate.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-964-368
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:11:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:11:34] "[36mGET /static/images/40_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:11:34] "[36mGET /static/images/9_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:11:34] "[36mGET /static/images/33_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:11:34] "[36mGET /static/images/10_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:12:02] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:12:02] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:12:02] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:12:02] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:12:02] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/hono/Desktop/ice-recommend/src/models/rate.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-964-368
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:12:27] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:12:27] "[36mGET /static/images/33_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:12:27] "[36mGET /static/images/41_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:12:27] "[36mGET /static/images/7_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:12:27] "[36mGET /static/images/37_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:12:27] "[36mGET /static/images/19_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:12:27] "[36mGET /static/images/51_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:12:27] "[36mGET /static/images/48_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:12:27] "[36mGET /static/images/4_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:12:27] "[36mGET /static/images/44_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in '/Users/hono/Desktop/ice-recommend/src/models/rate.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-964-368
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:12:42] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:12:42] "[36mGET /static/images/20_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:12:42] "[36mGET /static/images/9_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:12:42] "[36mGET /static/images/56_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:12:42] "[36mGET /static/images/52_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:12:42] "[36mGET /static/images/21_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:12:55] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:12:55] "[36mGET /static/images/9_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:12:55] "[36mGET /static/images/36_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:12:55] "[36mGET /static/images/44_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:12:55] "[36mGET /static/images/29_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:12:55] "[36mGET /static/images/33_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:12:55] "[36mGET /static/images/2_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:12:55] "[36mGET /static/images/19_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:12:55] "[36mGET /static/images/31_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:12:55] "[36mGET /static/images/28_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:13:04] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:13:04] "[36mGET /static/images/8_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:13:04] "[36mGET /static/images/5_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:13:04] "[36mGET /static/images/18_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:13:04] "[36mGET /static/images/23_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [07/Nov/2022 06:13:04] "[36mGET /static/images/38_bj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 242-964-368

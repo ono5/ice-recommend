@@ -43,7 +43,7 @@ class Rate(BaseDatabase):
         if not settings.RECOMMEND_ENGINE_ENABLE:
             session = database.connect_db()
             recommend = [r.name for r in session.query(
-                IceCream).all()][:settings.RECCOMEND_RESTAURANT_NUM]
+                IceCream).all()][:settings.RECCOMEND_ICECREAM_NUM]
             session.close()
             return recommend
 
@@ -97,4 +97,4 @@ class Rate(BaseDatabase):
             icecream = IceCream.get(icecream_id)
             recommended_icecreams.append(icecream.name)
 
-        return recommended_icecreams[:settings.RECCOMEND_RESTAURANT_NUM]
+        return recommended_icecreams[:settings.RECCOMEND_ICECREAM_NUM]

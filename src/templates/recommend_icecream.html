@@ -13,30 +13,19 @@
 {% endblock %}
 
 {% block content %}
-    <div class="display">
-        Hi, {{ user_name }}
+        {{ user_name }}さん、レビューありがとうございます。
         こちらがおすすめのアイスクリームです。
-
-        {% for icecream in icecreams %}
-        <p>
-			<img src="/static/images/{{icecream}}.png" />
-        </p>
-        {% endfor %}
-
-        <div>
-            {{ user_name }}さん、おすすめのアイスクリームを教えていただけますか?
+        <div class="row">
+            {% for icecream in icecreams %}
+            <div class="col-4 mb-3">
+                <div class="card">
+                    <div class="card-body d-block mx-auto">
+                        <img src="/static/images/{{icecream}}.png" />
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
         </div>
+		<a class="btn btn-primary stretched-link" href="/">レビュー画面に戻る</a>
 
-        <form action="{{ url_for('evaluate_yes_or_no') }} " method="post">
-            <div class="form-yes-or-no">
-                {{ form.value }}
-            </div>
-            {{ form.user_name }}
-            <div>
-                <input type="submit" value="Submit">
-            </div>
-        </form>
-
-
-    </div>
 {% endblock %}

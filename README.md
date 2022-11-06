@@ -41,3 +41,8 @@ sqlite> select * from icecream;
 sqlite> .import datasets/user_head.csv user
 sqlite> .import datasets/rating_head.csv rate
 ```
+
+## CSS
+```
+		<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css')}}" />
+```

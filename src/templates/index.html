@@ -1,12 +1,34 @@
 {% extends 'base.html' %}
 {% block title %} Home {% endblock %}
 {% block content %}
-	<div class="display">
-		ユーザー名を入力してください!
-		<br>
-		<form action="/" method="post">
-			<input type="text" name="user_name" size="30" />
-			<input type="submit"  vallue="Submit" />
-		</form>
-	</div>
+	<h1>アイスに評価をつけてください</h1>
+	<form action="/" method="post" class="row mb-5">
+        {% for icecream in icecreams %}
+		<div class="col">
+			<div class="card">
+				<div class="card-body d-block mx-auto">
+					<img src="/static/images/{{icecream}}.png" class="card-img-top">
+					  <input class="form-check-input" type="radio" name="{{icecream}}" id="review1" value='1'>
+					  <label class="form-check-label" for="review1">1</label>
+					  <input class="form-check-input" type="radio" name="{{icecream}}" id="review2" value='2'>
+					  <label class="form-check-label" for="review2">2</label>
+					  <input class="form-check-input" type="radio" name="{{icecream}}" id="review3" value='3' checked>
+					  <label class="form-check-label" for="review3">3</label>
+					  <input class="form-check-input" type="radio" name="{{icecream}}" id="review4" value='4'>
+					  <label class="form-check-label" for="review4">4</label>
+					  <input class="form-check-input" type="radio" name="{{icecream}}" id="review5" value='5'>
+					  <label class="form-check-label" for="review5">5</label>
+				</div>
+			</div>
+		</div>
+		{% endfor %}
+		<div class="row">
+			<div class="col-6">
+				<input class="form-control" type="text" name="user_name" size="30" placeholder="お名前を入力してください" required />
+			</div>
+			<div class="col-3">
+				<button class="btn btn-primary mb-3" type="submit"  vallue="Submit">レビューする</button>
+			</div>
+		</div>
+	</form>
 {% endblock %}
