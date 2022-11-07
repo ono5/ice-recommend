@@ -44,21 +44,17 @@ class IceCream(BaseDatabase):
     @staticmethod
     def get_icecream_random() -> List[str]:
         session = database.connect_db()
+
         icecreams = session.query(IceCream).all()
+
         icecream_list = []
         for ice in icecreams:
             icecream_list.append(ice.name)
 
-        select_icecream_list = []
-        # 5個のランダムなアイスを返す
-        random_list = [random.randint(0, len(icecream_list)-1) for i in range(5)]
-        for r in random_list:
-            select_icecream_list.append(icecream_list[r])
+        # icecreamを位置をシャッフル
+        random.shuffle(icecream_list)
 
         session.close()
 
-        return select_icecream_list
-
-
-
-
+        # 5個のランダムなアイスを返す
+        return icecream_list[:5]
